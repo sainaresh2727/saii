@@ -1,0 +1,109 @@
+body{
+    background-color: gray !important;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+/* ==========HEADER NAVBAR CSS STARTS========= */
+.a-css{
+    text-decoration: none;
+    color: white;
+}
+.section1-css{
+    background-color:#0769da;
+}
+
+.nav-link,.navbar-brand{
+    color: white !important;
+    text-decoration: none !important;
+    font-weight: bold;
+}
+.ul-flex{
+    display: flex;
+    gap: 36px;
+}
+.parent{
+    position: relative;
+}
+.child{
+    position: absolute;
+    top: 32%;
+    right: 2rem;
+    color: black;
+    font-weight: bolder;
+    
+}
+
+/* ==========HEADER NAVBAR CSS ENDS========= */
+/* =========BODY BG CSS STARTS============ */
+.bodybg{
+   background-image: url(https://img.freepik.com/free-vector/realistic-hall-furniture_52683-69523.jpg?uid=R193945952&ga=GA1.1.1370062067.1708613018&w=740);
+   background-repeat:no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 100vh;
+   position: relative;
+}
+.card-1{
+    padding: 35px 30px;
+    margin: 0px 10px 10px 10px;
+    margin-top: 120px;
+}
+.a-2{
+text-decoration: none;
+color: #0769da;
+padding-top: 30px !important;
+}
+.h51{
+  font-family: "Poppins", sans-serif ;
+  font-weight: 100;
+}
+/* =========BODY BG CSS ENDS============ */
+/* ========BODY CARD 1 CSS STARTS======= */
+.container-3-css{
+    padding: 25px 30px;
+    position: relative;
+    bottom: 4rem;
+    border: solid 2px white;
+background-color: white;
+}
+.row-1{
+    background-color: white;
+}
+.h52{
+    font-weight: bold;
+}
+.p2{
+    font-weight: normal;
+    font-size: smaller;
+    color: gray;
+}
+/* ========BODY CARD 1 CSS ENDS======= */
+
+/* .ul-end{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items:start;
+} */
+ .contact{
+    background-color: white;
+ }
+ .anchor{
+    margin-top: 30px;
+    color: #0769da;
+    font-weight: normal;
+ }
+.a-6{
+    text-decoration: none;
+    color:#3434e4;
+    display: flex;
+    flex-direction: column;
+    font-weight: normal;
+}
+.container-footer{
+    background-color: gray;
+    color:#ffffff80;
+    padding: 40px;
+}
